@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-Bonora
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning advanced styling em CSS3 and Bootstrap
+- 🌱 I’m currently learning advanced styling in CSS3 and Bootstrap
 - 💞️ I’m looking to collaborate on access to public works
 - 📫 How to reach mim: contact me through Facebook - Pedro Bonora Duarte; Instagram - pedrobonora21; Linkedin - pedro-bonora-duarte-09769218a.
 
