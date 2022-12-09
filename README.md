@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pedro-Bonora
-- 👀 I’m interested  em Desenvolvimento Web
-- 🌱 I’m currently learning  estilização avançada no CSS3 e  Bootstrap
-- 💞️ I’m looking to collaborate on  acesso a trabalhos públicos
-- 📫 How to reach mim: contate-me por meio do Facebook - Pedro Bonora Duarte; Instagram - pedrobonora21; Linkedin - pedro-bonora-duarte-09769218a.
+- 👀 I’m interested  em Web Development
+- 🌱 I’m currently learning  advanced styling em CSS3 and Bootstrap
+- 💞️ I’m looking to collaborate on access to public works
+- 📫 How to reach mim: contact me through Facebook - Pedro Bonora Duarte; Instagram - pedrobonora21; Linkedin - pedro-bonora-duarte-09769218a.
 
 <!---
 Pedro-Bonora/Pedro-Bonora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
